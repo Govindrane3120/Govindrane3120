@@ -3,9 +3,7 @@
 <h3 align="center">First Year Computer Science</h3>
 </div>
 
-- ⚡ Design By <a href="https://github.com/PushkraJ99 " target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+- ⚡ Design By [PUSHKRAJ :) ](https://github.com/PushkraJ99)
 - Thank Me Later
 
 <h3 align="left">Connect with me:</h3>
